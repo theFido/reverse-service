@@ -1,0 +1,19 @@
+{
+  "name": "reverse-service",
+  "version": "0.1.0",
+  "description": "Downstream interceptor to fake calls",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "tbd"
+  },
+  "author": "Fido <fidencio.garrido@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^2.0.4"
+  }
+}
